@@ -17,6 +17,8 @@
 
 The Analysis introduced here is about the criminality in New York City (US).It is the fourth project of the Data Analytics bootcamp, from Ironhack school in Barcelona.
 
+The goal of this project is analysis the criminality of NYC to answer a few questions related with the safety of places to live. The idea is based for people who want to  move on to the city and does not know where is the safest place to live. 
+
 Inside this project, you find some file from jupiter notebook and Tablau software where we make a practical example of ETL(Extraction, Transform and Load), Data Cleaning, Data Exploring, and Data Analysis. All of these files together will answer some questions we wonde previously (see below) related different kind of  criminatity and their relationships in the 5 boros of NYC. 
 
 ## Questions & Hypotheses
@@ -50,6 +52,5 @@ What does your repository look like? Explain your folder and file structure.
 ## Links
 Include links to your repository, slides and kanban board. Feel free to include any other links associated with your project.
 
-[Repository](https://github.com/)  
+[Repository](https://github.com/rubenmartinezlorente/Project-Week-5-Your-Own-Project.git)  
 [Slides](https://docs.google.com/presentation/d/16bp7NePZfApK6wA6oZ76HFyrGCHZ0lw3fL86h_5VKDU/edit?folder=1HB9m3JqtlN_VEYlb5wIypphppu3RmjRb#slide=id.g6baef779aa_0_19)  
-[Trello](https://trello.com/en)  
