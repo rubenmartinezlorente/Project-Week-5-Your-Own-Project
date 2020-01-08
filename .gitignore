@@ -6,6 +6,10 @@
 # gitignore template for Jupyter Notebooks
 # website: http://jupyter.org/
 
+
+#no subir este archivo:
+differentes_graficas.ipynb
+
 .ipynb_checkpoints
 */.ipynb_checkpoints/*
 
