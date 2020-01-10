@@ -3,7 +3,7 @@
 # Criminality in New York City
 **Rubén Martínez Lorente**
 
-** *Data Analytics at Ironhack School in Barcelona.  20/12/2019* ** 
+*Data Analytics at Ironhack School in Barcelona.  20/12/2019*
 
 ## Content
 - [Project Description](#project-description)
@@ -25,13 +25,12 @@ The final report you can see in [Slides](#links). The organization of the projec
 
 ## Dataset
 
-I use a single dataset from kaggle website. We have information about date and places of crimes, and which kind of criminality according with usual and internal (NYPD codes). 
+I use a three different dataset from the kaggle website. We have information about date and places of crimes, and which kind of criminality according with usual and internal (NYPD codes). 
 
-**Dataset**: *https://www.kaggle.com/adamschroeder/crime-in-new-york-city/data*
-
-            *https://data.cityofnewyork.us/Public-Safety/NYPD-Arrest-Data-Year-to-Date-/uip8-fykc*
+https://data.cityofnewyork.us/Public-Safety/NYPD-Arrest-Data-Year-to-Date-/uip8-fykc
 
 ## Data Cleaning
+
 
 ## Data Analysis
 
